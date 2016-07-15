@@ -1,0 +1,11 @@
+rahul_err07j_sample.pdf- Contains some examples of of the ERR07-J (Do not throw RuntimeException, Exception, or Throwable) violations present in frameworks/base/core/java/android directory.
+
+
+rahul_err07j_javacode.docx- Contains the javacode used to detect the violation
+
+
+<dir> - For each java file which has ERR07-J vioation there will be a directory (eg: frameworks/base/core/java/android/net/nsd/NsdManager.java there will be a directory called "NsdManager") which contains the related files of ERR07-J (AST, code, etc)
+
+
+
+
